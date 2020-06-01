@@ -40,7 +40,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0B57:16152:46A6002:6577B28:5ED54927" data-pjax-transient="true"/><meta name="html-safe-nonce" content="044688fd0cb65f38d13e2964cf73a3bee4e0af3e" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91ZGFjaXR5L25kMzIwLWM0LXdlYXJhYmxlLWRhdGEtcHJvamVjdC1zdGFydGVyIiwicmVxdWVzdF9pZCI6IjBCNTc6MTYxNTI6NDZBNjAwMjo2NTc3QjI4OjVFRDU0OTI3IiwidmlzaXRvcl9pZCI6IjQxMDQ3NDczNjY0NjQxODg3MzMiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJhbXMifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="8514adbab5ac68b06b6f61b987fefb1c6263a66674fdf78fd188cb540452102a" data-pjax-transient="true"/>
+  <meta name="request-id" content="EC90:3CF26:29A8968:3B853FC:5ED54A00" data-pjax-transient="true"/><meta name="html-safe-nonce" content="044688fd0cb65f38d13e2964cf73a3bee4e0af3e" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS91ZGFjaXR5L25kMzIwLWM0LXdlYXJhYmxlLWRhdGEtcHJvamVjdC1zdGFydGVyL3RyZWUvbWFzdGVyL3BhcnRfMiIsInJlcXVlc3RfaWQiOiJFQzkwOjNDRjI2OjI5QTg5Njg6M0I4NTNGQzo1RUQ1NEEwMCIsInZpc2l0b3JfaWQiOiI0MTA0NzQ3MzY2NDY0MTg4NzMzIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiYW1zIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="890accd155fcc2febc527e11556e8067f90de8d41c9b51848050ff92feb8272d" data-pjax-transient="true"/>
 
 
 
@@ -89,7 +89,7 @@
   <meta name="octolytics-dimension-user_id" content="1916665" /><meta name="octolytics-dimension-user_login" content="udacity" /><meta name="octolytics-dimension-repository_id" content="238286229" /><meta name="octolytics-dimension-repository_nwo" content="udacity/nd320-c4-wearable-data-project-starter" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="238286229" /><meta name="octolytics-dimension-repository_network_root_nwo" content="udacity/nd320-c4-wearable-data-project-starter" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -141,7 +141,7 @@
         <div class="d-flex flex-items-center">
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fc80199e4043ceb14bc585fa7c3e991c63550897d7fc111ccd3e19a180aeba62"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47ac4cb246436779ad23ea54c16434ea37a8a2b482c200d5b0c62df1006db512"
                 data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
                 Sign&nbsp;up
               </a>
@@ -288,7 +288,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="uUBBWV61drzsCdmcdhpszxX5hfRxDlJdIzRX+IzGrfhmlow7wVEuzsCISuNOvoXzjH044T1ctl79nf3DQNCUBA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="tFGGoENZDUxuApHJwhgxCXy54ZFTCcHB33daq871DD1rh0vC3L1VPkKDArb6vNg15T1chB9bJcIB3vCQAuM1wQ==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -410,15 +410,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter%2Fblob%2Fmaster%2FREADME.md"
+        <a href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter%2Fblob%2Fmaster%2Fpart_2%2FREADME.md"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2bbe94a543d265a45893b71a72e7cd71ec48ede42571780e77252ec61b384ef4"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="08cc219b365e938745ea8b29439498d9bd8c886b90828463982656debb92d56f"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=udacity%2Fnd320-c4-wearable-data-project-starter"
               class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2bbe94a543d265a45893b71a72e7cd71ec48ede42571780e77252ec61b384ef4"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="08cc219b365e938745ea8b29439498d9bd8c886b90828463982656debb92d56f"
               data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
@@ -508,7 +508,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="35c55f997732df3130a3cc45056a5c4a1bf98d8ade6555ef9fc14521ff47c582" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bef081304c39c2451803afc1704939d6abfccf3bc3f8555f4ca38f94714d77fd" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
     <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/udacity/nd320-c4-wearable-data-project-starter/watchers"
@@ -519,7 +519,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:238286229,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5e192ef7f1a219bc40e508518978c4b67854df473b91b9794a8d68da0f59ee9" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
+        <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:238286229,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6ba1c544deac75fcc8895ed05b24cf43fbf3158db7b640bddbabee259f19c2d3" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
       <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
 
       Star
@@ -532,7 +532,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:238286229,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9a0ad869171d90134216ca2e5e779f7617c05d024b8756e2c7ceb57938b1731c" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:238286229,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5127fb705139a0e5a5ab216d78e1f238b178942fa73228d2893963f710b4bf7" href="/login?return_to=%2Fudacity%2Fnd320-c4-wearable-data-project-starter">
         <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
         Fork
 </a>
@@ -675,9 +675,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/nd320-c4-wearable-data-project-starter/blob/33a7f4e3989977cf159d6a3f70f53a58774daabe/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/udacity/nd320-c4-wearable-data-project-starter/blob/33a7f4e3989977cf159d6a3f70f53a58774daabe/part_2/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:1357326cc331a63796b87f3147b7e6e7 -->
+    <!-- blob contrib key: blob_contributors:v22:d2b029f854c06b36c8dc0e7cdd22d393 -->
       <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -691,7 +691,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a97e1ce70f02de44cffffe86fc1e70577cfca753cd88dc286edaa977bb9ea8f3" href="/join?source=prompt-blob-show&amp;source_repo=udacity%2Fnd320-c4-wearable-data-project-starter">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="398d77793c618058d484ee424430f508f0435cbe0602c247869674530184f8da" href="/join?source=prompt-blob-show&amp;source_repo=udacity%2Fnd320-c4-wearable-data-project-starter">Sign up</a>
       </div>
     </div>
   </signup-prompt-controller>
@@ -709,7 +709,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/udacity/nd320-c4-wearable-data-project-starter/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/udacity/nd320-c4-wearable-data-project-starter/refs/master/part_2/README.md?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
@@ -725,13 +725,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="part_2/README.md" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/udacity/nd320-c4-wearable-data-project-starter"><span>nd320-c4-wearable-data-project-starter</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/udacity/nd320-c4-wearable-data-project-starter"><span>nd320-c4-wearable-data-project-starter</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/udacity/nd320-c4-wearable-data-project-starter/tree/master/part_2"><span>part_2</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -741,7 +741,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="README.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="part_2/README.md" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -749,16 +749,45 @@
 
 
 
-    <include-fragment src="/udacity/nd320-c4-wearable-data-project-starter/contributors/master/README.md" class="Box Box--condensed commit-loader">
-      <div class="Box-body bg-blue-light f6">
-        Fetching contributors&hellip;
+    
+  <div class="Box Box--condensed d-flex flex-column flex-shrink-0 mb-3">
+      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
+        <span class="pr-md-4 f6">
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/christa-cheung/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/christa-cheung"><img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/54732090?s=40&amp;v=4" width="20" height="20" alt="@christa-cheung" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/christa-cheung/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/christa-cheung">christa-cheung</a>
+            <span class="lh-default v-align-middle">
+              <a data-pjax="true" title="Update README.md" class="link-gray" href="/udacity/nd320-c4-wearable-data-project-starter/commit/2318d79323af524e5d2b0a151dd593a9a40fbaf0">Update README.md</a>
+            </span>
+        </span>
+        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
+          <a class="pr-2 text-mono link-gray" href="/udacity/nd320-c4-wearable-data-project-starter/commit/2318d79323af524e5d2b0a151dd593a9a40fbaf0" data-pjax>2318d79</a>
+          <relative-time datetime="2020-02-06T20:36:13Z" class="no-wrap">Feb 6, 2020</relative-time>
+        </span>
       </div>
 
-      <div class="Box-body d-flex flex-items-center" >
-        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
-      </div>
-</include-fragment>
+    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
+      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+        <summary class="btn-link">
+          <span><strong>1</strong> contributor</span>
+        </summary>
+        <details-dialog
+          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+          aria-label="Users who have contributed to this file"
+          src="/udacity/nd320-c4-wearable-data-project-starter/contributors-list/master/part_2/README.md" preload>
+          <div class="Box-header">
+            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+            </button>
+            <h3 class="Box-title">
+              Users who have contributed to this file
+            </h3>
+          </div>
+          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
+        </details-dialog>
+      </details>
+    </div>
+  </div>
+
 
 
 
@@ -770,17 +799,17 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      92 lines (61 sloc)
+      34 lines (23 sloc)
       <span class="file-info-divider"></span>
-    10.6 KB
+    2.39 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/udacity/nd320-c4-wearable-data-project-starter/raw/master/README.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/udacity/nd320-c4-wearable-data-project-starter/blame/master/README.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/udacity/nd320-c4-wearable-data-project-starter/commits/master/README.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/udacity/nd320-c4-wearable-data-project-starter/raw/master/part_2/README.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/udacity/nd320-c4-wearable-data-project-starter/blame/master/part_2/README.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/udacity/nd320-c4-wearable-data-project-starter/commits/master/part_2/README.md">History</a>
     </div>
 
 
@@ -809,77 +838,35 @@
 
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-activity-aware-pulse-rate-algorithm-project" class="anchor" aria-hidden="true" href="#activity-aware-pulse-rate-algorithm-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Activity Aware Pulse Rate Algorithm Project</h1>
-<p>This project has 2 main parts:</p>
-<ul>
-<li><a href="#part-1-pulse-rate-algorithm-overview">Part 1</a> - Develop a <strong>Pulse Rate Algorithm</strong> on the given training data. Then <strong>Test Your Algorithm</strong> and see that it has met the success criteria.</li>
-<li><a href="#part-2-clinical-application-overview">Part 2</a> - Apply the Pulse Rate Algorithm on a <strong>Clinical Application</strong> and compute more clinically meaningful features and discover healthcare trends.</li>
-</ul>
-<p>Let's start with some background.</p>
-<hr>
-<h2><a id="user-content-introduction" class="anchor" aria-hidden="true" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Introduction</h2>
-<p>A core feature that many users expect from their wearable devices is pulse rate estimation. Continuous pulse rate estimation can be informative for many aspects of a wearer's health. Pulse rate during exercise can be a measure of workout intensity and resting heart rate is sometimes used as an overall measure of cardiovascular fitness. In this project you will create a pulse rate estimation algorithm for a wrist-wearable device. Use the information in the <a href="#physiological-mechanics-of-pulse-rate-estimation">section below</a> to inform the design of your algorithm. Make sure that your algorithm conforms to the given <a href="#algorithm-specifications">specifications</a>.</p>
-<h2><a id="user-content-physiological-mechanics-of-pulse-rate-estimation" class="anchor" aria-hidden="true" href="#physiological-mechanics-of-pulse-rate-estimation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Physiological Mechanics of Pulse Rate Estimation</h2>
-<p>Pulse rate is typically estimated by using the PPG sensor. When the ventricles contract, the capilaries in the wrist fill with blood. The (typically green) light emitted by the PPG sensor is absorbed by red blood cells in these capilaries and the photodetector will see the drop in reflected light. When the blood returns to the heart, fewer red blood cells in the wrist absorb the light and the photodetector sees an increase in reflected light. The period of this oscillating waveform is the pulse rate.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/udacity/nd320-c4-wearable-data-project-starter/blob/master/ppg_mechanics.png"><img src="/udacity/nd320-c4-wearable-data-project-starter/raw/master/ppg_mechanics.png" alt="PPG Mechanics" style="max-width:100%;"></a></p>
-<p>However, the heart beating is not the only phenomenon that modulates the PPG signal. Blood in the wrist is fluid, and arm movement will cause the blood to move correspondingly. During exercise, like walking or running, we see another periodic signal in the PPG due to this arm motion. Our pulse rate estimator  has to be careful not to confuse this periodic signal with the pulse rate.</p>
-<p>We can use the accelerometer signal of our wearable device to help us keep track of which periodic signal is caused by motion. Because the accelerometer is only sensing arm motion, any periodic signal in the accelerometer is likely not due to the heart beating, and only due to the arm motion. If our pulse rate estimator is picking a frequency that's strong in the accelerometer, it may be making a mistake.</p>
-<p>All estimators will have some amount of error. How much error is tolerable depends on the application. If we were using these pulse rate estimates to compute long term trends over months, then we may be more robust to higher error variance. However, if we wanted to give information back to the user about a specific workout or night of sleep, we would require a much lower error.</p>
-<h2><a id="user-content-algorithm-confidence-and-availability" class="anchor" aria-hidden="true" href="#algorithm-confidence-and-availability"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Algorithm Confidence and Availability</h2>
-<p>Many machine learning algorithms produce outputs that can be used to estimate their per-result error. For example in logistic regression you can use the predicted class probabilities to quantify trust in the classification. A classification where one class has a very high probability is probably more accurate than one where all classes have similar probabilities. Certainly, this method is not perfect and won't perfectly rank-order estimates based on error. But if accurate enough, it allows consumers of the algorithm more flexibility in how to use it. We call this estimation of the algorithms error the <em>confidence</em>.</p>
-<p>In pulse rate estimation, having a confidence value can be useful if a user wants just a handful of high-quality pulse rate estimate per night. They can use the confidence algorithm to select the 20 most confident estimates at night and ignore the rest of the outputs. Confidence estimates can also be used to set the point on the error curve that we want to operate at by sacrificing the number of estimates that are considered valid. There is a trade-off between <em>availability</em> and error. For example if we want to operate at 10% availability, we look at our training dataset to determine the condince threshold for which 10% of the estimates pass. Then if only if an estimate's confidence value is above that threshold do we consider it valid. See the error vs. availability curve below.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/udacity/nd320-c4-wearable-data-project-starter/blob/master/error_vs_availability.png"><img src="/udacity/nd320-c4-wearable-data-project-starter/raw/master/error_vs_availability.png" alt="Error vs. Availability" style="max-width:100%;"></a></p>
-<p>This plot is created by computing the mean absolute error at all -- or at least 100 of -- the confidence thresholds in the dataset.</p>
-<p>Building a confidence algorithm for pulse rate estimation is a little tricker than logistic regression because intuitively there isn't some transformation of the algorithm output that can make a good confidence score. However, by understanding our algorithm behavior we can come up with some general ideas that might create a good confidence algorithm. For example, if our algorithm is picking a strong frequency component that's not present in the accelerometer we can be relatively confidence in the estimate. Turn this idea into an algorithm by quantifying "strong frequency component".</p>
-<hr>
-<h2><a id="user-content-part-1-pulse-rate-algorithm-overview" class="anchor" aria-hidden="true" href="#part-1-pulse-rate-algorithm-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Part 1: Pulse Rate Algorithm Overview</h2>
-<h3><a id="user-content-algorithm-specifications" class="anchor" aria-hidden="true" href="#algorithm-specifications"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Algorithm Specifications</h3>
-<p>You must build an algorithm that:</p>
-<ul>
-<li>estimates pulse rate from the PPG signal and a 3-axis accelerometer.</li>
-<li>assumes pulse rate will be restricted between 40BPM (beats per minute) and 240BPM</li>
-<li>produces an estimation confidence. A higher confidence value means that this estimate should be more accurate than an estimate with a lower confidence value.</li>
-<li>produces an output at least every 2 seconds.</li>
-</ul>
-<h3><a id="user-content-success-criteria" class="anchor" aria-hidden="true" href="#success-criteria"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Success Criteria</h3>
-<p>Your algorithm performance success criteria is as follows: the mean absolute error at 90% availability must be less than 15 BPM on the test set.  Put another way, the best 90% of your estimates--according to your own confidence output-- must have a mean absolute error of less than 15 BPM. The evaluation function is included in the starter code.</p>
-<p>Note that the unit test will call <code>AggregateErrorMetric</code> on the output of your <code>RunPulseRateAlgorithm</code> on a test dataset that you do not have access to. The result of this call must be less than 15 BPM for your algorithm's performance to pass. The test set should be easier than the training set so as long as your algorithm is doing reasonably well on the training data set it should pass this test.</p>
-<p><strong>This will be validated through the Test Your Algorithm Workspace which includes a unit test.</strong></p>
-<h3><a id="user-content-some-helpful-tips" class="anchor" aria-hidden="true" href="#some-helpful-tips"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Some Helpful Tips</h3>
-<ol>
-<li>Remember to bandpass filter all your signals. Use the 40-240BPM range to create your pass band.</li>
-<li>Use plt.specgram to visualize your signals in the frequency domain. You can plot your estimates on top of the spectrogram to see where things are going wrong.</li>
-<li>When the dominant accelerometer frequency is the same as the PPG, try picking the next strongest PPG frequency if there is another good candidate.</li>
-<li>Sometimes the cadence of the arm swing is the same as the heart beat. So if you can't find another good candidate pulse rate outside of the accelerometer peak, it may be the same as the accelerometer.</li>
-<li>One option for a confidence algorithm is to answer the question, "How much energy in the frequency spectrum is concentrated near the pulse rate estimate?" You can answer this by summing frequency spectrum near the pulse rate estimate and dividing it by the sum of the entire spectrum.</li>
-</ol>
-<h3><a id="user-content-dataset" class="anchor" aria-hidden="true" href="#dataset"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Dataset</h3>
-<p>You will be using the Troika<sup>1</sup> dataset to build your algorithm. Find the dataset under datasets/troika/training_data. The README in that folder will tell you how to interpret the data. The starter code contains a function to help load these files.</p>
-<h3><a id="user-content-getting-started" class="anchor" aria-hidden="true" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting Started</h3>
-<p>The starter code includes a few helpful functions.</p>
-<ul>
-<li><code>TroikaDataset</code>, <code>AggregateErrorMetric</code>, and <code>Evaluate</code> do not need to be modified.</li>
-<li>Use <code>TroikaDataset</code> to retreive a list of .mat files containing reference and signal data.</li>
-<li>Use <code>scipy.io.loadmat</code> to the .mat file into a python object.</li>
-<li>The bulk of the code will be in the <code>RunPulseRateAlgorithm</code> function. You can and should break the code out into multiple functions.</li>
-<li><code>RunPulseRateAlgorithm</code> will take in two filenames and return a tuple of two numpy arrays--per-estimate pulse rate error and confidence values. Remember to write docstrings for all functions that you write (including <code>RunPulseRateAlgorithm</code>)</li>
-<li>Finally, run the <code>Evaluate</code> function to call your algorithm on the Troika dataset and compute an aggregate error metric. While building the algorithm you may want to inspect the algorithm errors on more detail.</li>
-</ul>
-<hr>
-<h2><a id="user-content-part-2-clinical-application-overview" class="anchor" aria-hidden="true" href="#part-2-clinical-application-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Part 2: Clinical Application Overview</h2>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h2><a id="user-content-part-2-clinical-application-overview" class="anchor" aria-hidden="true" href="#part-2-clinical-application-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Part 2: Clinical Application Overview</h2>
 <p>Now that you have built your pulse rate algorithm and tested your algorithm to know it works, we can use it to compute more clinically meaningful features and discover healthcare trends.</p>
 <p>Specifically, you will use 24 hours of heart rate data from 1500 samples to try to validate the well known trend that average resting heart rate increases up until middle age and then decreases into old age. We'll also see if resting heart rates are higher for women than men. See the trend illustrated in this image:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/udacity/nd320-c4-wearable-data-project-starter/blob/master/heart-rate-age-reference-chart.jpg"><img src="/udacity/nd320-c4-wearable-data-project-starter/raw/master/heart-rate-age-reference-chart.jpg" alt="heart-rate-age-ref-chart" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/udacity/nd320-c4-wearable-data-project-starter/blob/master/part_2/heart-rate-age-reference-chart.jpg"><img src="/udacity/nd320-c4-wearable-data-project-starter/raw/master/part_2/heart-rate-age-reference-chart.jpg" alt="heart-rate-age-ref-chart" style="max-width:100%;"></a></p>
 <p>Follow the steps in the <code>clinical_app_starter.ipynb</code> to reproduce this result!</p>
 <h3><a id="user-content-dataset-cast" class="anchor" aria-hidden="true" href="#dataset-cast"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Dataset (CAST)</h3>
-<p>The data from this project comes from the <a href="https://physionet.org/content/crisdb/1.0.0/" rel="nofollow">Cardiac Arrythmia Suppression Trial (CAST)</a>, which was sponsored by the National Heart, Lung, and Blood Institute (NHLBI). CAST collected 24 hours of heart rate data from ECGs from people who have had a myocardial infarction (MI) within the past two years.<sup>2</sup> This data has been smoothed and resampled to more closely resemble PPG-derived pulse rate data from a wrist wearable.<sup>3</sup></p>
-<hr>
-<h2><a id="user-content-citations" class="anchor" aria-hidden="true" href="#citations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Citations</h2>
+<p>The data from this project comes from the <a href="https://physionet.org/content/crisdb/1.0.0/" rel="nofollow">Cardiac Arrythmia Suppression Trial (CAST)</a>, which was sponsored by the National Heart, Lung, and Blood Institute (NHLBI). CAST collected 24 hours of heart rate data from ECGs from people who have had a myocardial infarction (MI) within the past two years.<sup>1</sup> This data has been smoothed and resampled to more closely resemble PPG-derived pulse rate data from a wrist wearable.<sup>2</sup></p>
 <ol>
-<li><strong>Troika</strong> - Zhilin Zhang, Zhouyue Pi, Benyuan Liu, ‘‘TROIKA: A General Framework for Heart Rate Monitoring Using Wrist-Type Photoplethysmographic Signals During Intensive Physical Exercise,’’IEEE Trans. on Biomedical Engineering, vol. 62, no. 2, pp. 522-531, February 2015. Link</li>
 <li><strong>CAST RR Interval Sub-Study Database Citation</strong> - Stein PK, Domitrovich PP, Kleiger RE, Schechtman KB, Rottman JN. Clinical and demographic determinants of heart rate variability in patients post myocardial infarction: insights from the Cardiac Arrhythmia Suppression Trial (CAST). Clin Cardiol 23(3):187-94; 2000 (Mar)</li>
 <li><strong>Physionet Citation</strong> - Goldberger AL, Amaral LAN, Glass L, Hausdorff JM, Ivanov PCh, Mark RG, Mietus JE, Moody GB, Peng C-K, Stanley HE. PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals (2003). Circulation. 101(23):e215-e220.</li>
 </ol>
+<h3><a id="user-content-folder-contents" class="anchor" aria-hidden="true" href="#folder-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Folder Contents</h3>
+<h4><a id="user-content-starter" class="anchor" aria-hidden="true" href="#starter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Starter</h4>
+<p>These are the files that are given:</p>
+<ul>
+<li><code>README.md</code></li>
+<li><code>datasets</code></li>
+<li><code>clinical_app_starter.ipynb</code></li>
+<li><code>heart-rate-age-reference-chart.jpg</code></li>
+</ul>
+<h4><a id="user-content-completed" class="anchor" aria-hidden="true" href="#completed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Completed</h4>
+<p>Once you have completed this portion these should be the files in this repo.</p>
+<ul>
+<li><code>README.md</code></li>
+<li><code>datasets</code> - this folder should be removed when submitting for reviewers.</li>
+<li><code>clinical_app.ipynb</code><sup>*</sup> - completed code portions and clinical conclusion.</li>
+<li><code>heart-rate-age-reference-chart.jpg</code></li>
+</ul>
+<p><sup>*</sup> This file can be named slightly different but must fufill the description given and be clear to the reviewer what that file includes.</p>
 </article>
   </div>
 
